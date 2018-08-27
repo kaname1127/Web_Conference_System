@@ -1,5 +1,7 @@
 # Web_Conference_System
 
-デプロイ済 
+Firebase Hostingでデプロイ済。 
+<br>
 【URL】https://chatapp-b7a7b.firebaseapp.com/
-room1
+<br>
+初期ルーム：room1
